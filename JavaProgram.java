@@ -6,6 +6,8 @@ public class SimpleProgram {
 		System.out.println("Ireland");
 		System.out.println("America");
 		System.out.println("Brazil");
+		
+		System.out.println("Russia");
 
 	}
 
